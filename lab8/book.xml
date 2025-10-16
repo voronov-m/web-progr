@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+
+  <book id="1">
+    <name>НазваКниги1</name>
+    <author>АвторКниги1</author>
+    <year>2000</year>
+  </book>
+
+  <book id="2">
+    <name>Книга2</name>
+    <author>Воронов Микола</author>
+    <year>2025</year>
+  </book>
+  
+</books>
