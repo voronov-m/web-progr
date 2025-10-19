@@ -1,0 +1,27 @@
+<cols>
+    <col>
+        <name>111</name>
+        <percent>0.3</percent>
+        <color c1="255" c2="0" c3="0"/>
+    </col>
+    <col>
+        <name>222</name>
+        <percent>0.25</percent>
+        <color c1="0" c2="255" c3="0"/>
+    </col>
+    <col>
+        <name>333</name>
+        <percent>0.05</percent>
+        <color c1="0" c2="0" c3="255"/>
+    </col>
+    <col>
+        <name>444</name>
+        <percent>0.10</percent>
+        <color c1="255" c2="255" c3="0"/>
+    </col>
+    <col>
+        <name>555</name>
+        <percent>0.80</percent>
+        <color c1="0" c2="255" c3="255"/>
+    </col>
+</cols>
